@@ -1,0 +1,92 @@
+
+Link Prediction start：
+
+DataShape......
+    数据集长度：275254
+    第一列节点长度：(4238)
+    第二列节点长度：(4298)
+    节点数量为：4399
+    数据集长度：33417
+    第一列节点长度：(3435)
+    第二列节点长度：(3661)
+    节点数量为：4399
+----------SIM----------基于局部信息----------SIM----------
+----------Cn----------
+    SimilarityTime: 14.467598 s
+    Calculation AUC......
+    AUC指标为：0.881382
+    AUCTime：7.979169 s
+----------Salton----------
+    SimilarityTime: 15.804871 s
+    Calculation AUC......
+    AUC指标为：0.793074
+    AUCTime：7.974449 s
+----------Jaccard----------
+    SimilarityTime: 15.038284 s
+    Calculation AUC......
+    AUC指标为：0.766826
+    AUCTime：8.512294 s
+----------Sorenson----------
+    SimilarityTime: 16.213580 s
+    Calculation AUC......
+    AUC指标为：0.767051
+    AUCTime：9.349547 s
+----------HPI----------
+    SimilarityTime: 15.762800 s
+    Calculation AUC......
+    AUC指标为：0.771444
+    AUCTime：8.507051 s
+----------HDI----------
+    SimilarityTime: 15.463119 s
+    Calculation AUC......
+    AUC指标为：0.747195
+    AUCTime：8.693599 s
+----------LHN-1----------
+    SimilarityTime: 16.898123 s
+    Calculation AUC......
+    AUC指标为：0.428131
+    AUCTime：9.247662 s
+----------PA----------
+    SimilarityTime: 0.223743 s
+    Calculation AUC......
+    AUC指标为：0.892925
+    AUCTime：9.089242 s
+----------AA----------
+    SimilarityTime: 16.961679 s
+    Calculation AUC......
+    AUC指标为：0.887334
+    AUCTime：9.265556 s
+----------RA----------
+    SimilarityTime: 17.517382 s
+    Calculation AUC......
+    AUC指标为：0.899033
+    AUCTime：9.033895 s
+----------SIM----------基于路径----------SIM----------
+----------LP----------
+    SimilarityTime: 64.417487 s
+    Calculation AUC......
+    AUC指标为：0.883056
+    AUCTime：8.678802 s
+----------Katz----------
+    SimilarityTime: 22.511216 s
+    Calculation AUC......
+    AUC指标为：0.487936
+    AUCTime：8.508280 s
+----------SIM----------基于随机游走----------SIM----------
+----------ACT----------
+    SimilarityTime: 124.015836 s
+    Calculation AUC......
+    AUC指标为：0.867140
+    AUCTime：8.412733 s
+----------Cos----------
+    SimilarityTime: 134.814160 s
+    Calculation AUC......
+    AUC指标为：0.883165
+    AUCTime：8.129808 s
+----------！！----------
+All SimilarityTime: 613.787127 s
+    Calculation AUC......
+    AUC指标为：0.884302
+    AUCTime：8.801863 s
+
+RunTime: 625.052192 s

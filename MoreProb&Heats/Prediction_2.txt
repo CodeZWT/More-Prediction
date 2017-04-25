@@ -1,0 +1,1418 @@
+Social_Data's is Shape :(151380L, 2L)
+Test_Data's is Shape :(16389L, 2L)
+UserItem_Data's is Shape :(154122L, 2L)
+
+
+Data To MatrixAdjacency_Soial ......
+    The first col's node length is :3836
+    The first col's max node is :4062
+    The second col's node length is :4062
+    The second col's max node is :4066
+MatrixAdjacency_Social's Shape is :(4066L, 4066L)
+Data To MatrixAdjacency_Test ......
+MatrixAdjacency_Test's Shape is :(4066L, 4066L)
+Data To MatrixAdjacency_UserItem ......
+    The first col's node length is :4066
+    The first col's max node is :4066
+    The second col's node length is :7649
+    The second col's max node is :7649
+MatrixAdjacency_UserItem's Shape is :(4066L, 7649L)
+
+Start………………………………
+ 
+W1:
+MatrixNet_W1's is Shape :(4066L, 4066L)
+ 
+W2:
+MatrixNet_W2's is Shape :(4066L, 4066L)
+*********
+
+Param_Q is 0.0
+
+    Param_P is 0.0
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.794081
+    AUCTime：7.902344 s
+*********
+
+Param_Q is 0.0
+
+    Param_P is 0.1
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.796092
+    AUCTime：7.838397 s
+*********
+
+Param_Q is 0.0
+
+    Param_P is 0.2
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.797426
+    AUCTime：7.611419 s
+*********
+
+Param_Q is 0.0
+
+    Param_P is 0.3
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.797539
+    AUCTime：7.577546 s
+*********
+
+Param_Q is 0.0
+
+    Param_P is 0.4
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.799123
+    AUCTime：7.622760 s
+*********
+
+Param_Q is 0.0
+
+    Param_P is 0.5
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.800491
+    AUCTime：7.852733 s
+*********
+
+Param_Q is 0.0
+
+    Param_P is 0.6
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.800071
+    AUCTime：7.499823 s
+*********
+
+Param_Q is 0.0
+
+    Param_P is 0.7
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.800858
+    AUCTime：7.609743 s
+*********
+
+Param_Q is 0.0
+
+    Param_P is 0.8
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.800506
+    AUCTime：7.787510 s
+*********
+
+Param_Q is 0.0
+
+    Param_P is 0.9
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.799863
+    AUCTime：8.088864 s
+*********
+
+Param_Q is 0.0
+
+    Param_P is 1.0
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.799926
+    AUCTime：7.679907 s
+ 
+W1:
+MatrixNet_W1's is Shape :(4066L, 4066L)
+ 
+W2:
+MatrixNet_W2's is Shape :(4066L, 4066L)
+*********
+
+Param_Q is 0.1
+
+    Param_P is 0.0
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.807539
+    AUCTime：7.924067 s
+*********
+
+Param_Q is 0.1
+
+    Param_P is 0.1
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.809155
+    AUCTime：7.806131 s
+*********
+
+Param_Q is 0.1
+
+    Param_P is 0.2
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.810581
+    AUCTime：7.569981 s
+*********
+
+Param_Q is 0.1
+
+    Param_P is 0.3
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.812264
+    AUCTime：8.078517 s
+*********
+
+Param_Q is 0.1
+
+    Param_P is 0.4
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.812866
+    AUCTime：8.326191 s
+*********
+
+Param_Q is 0.1
+
+    Param_P is 0.5
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.815137
+    AUCTime：9.557654 s
+*********
+
+Param_Q is 0.1
+
+    Param_P is 0.6
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.816169
+    AUCTime：8.227761 s
+*********
+
+Param_Q is 0.1
+
+    Param_P is 0.7
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.816698
+    AUCTime：7.788524 s
+*********
+
+Param_Q is 0.1
+
+    Param_P is 0.8
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.818223
+    AUCTime：7.884144 s
+*********
+
+Param_Q is 0.1
+
+    Param_P is 0.9
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.818654
+    AUCTime：8.350322 s
+*********
+
+Param_Q is 0.1
+
+    Param_P is 1.0
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.819463
+    AUCTime：8.990959 s
+ 
+W1:
+MatrixNet_W1's is Shape :(4066L, 4066L)
+ 
+W2:
+MatrixNet_W2's is Shape :(4066L, 4066L)
+*********
+
+Param_Q is 0.2
+
+    Param_P is 0.0
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.818114
+    AUCTime：8.344818 s
+*********
+
+Param_Q is 0.2
+
+    Param_P is 0.1
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.820245
+    AUCTime：7.798174 s
+*********
+
+Param_Q is 0.2
+
+    Param_P is 0.2
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.821801
+    AUCTime：7.994756 s
+*********
+
+Param_Q is 0.2
+
+    Param_P is 0.3
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.824613
+    AUCTime：7.913220 s
+*********
+
+Param_Q is 0.2
+
+    Param_P is 0.4
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.825648
+    AUCTime：8.460438 s
+*********
+
+Param_Q is 0.2
+
+    Param_P is 0.5
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.827210
+    AUCTime：8.733999 s
+*********
+
+Param_Q is 0.2
+
+    Param_P is 0.6
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.830425
+    AUCTime：8.670074 s
+*********
+
+Param_Q is 0.2
+
+    Param_P is 0.7
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.831404
+    AUCTime：9.288605 s
+*********
+
+Param_Q is 0.2
+
+    Param_P is 0.8
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.832264
+    AUCTime：7.515418 s
+*********
+
+Param_Q is 0.2
+
+    Param_P is 0.9
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.834244
+    AUCTime：7.670282 s
+*********
+
+Param_Q is 0.2
+
+    Param_P is 1.0
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.834842
+    AUCTime：7.845485 s
+ 
+W1:
+MatrixNet_W1's is Shape :(4066L, 4066L)
+ 
+W2:
+MatrixNet_W2's is Shape :(4066L, 4066L)
+*********
+
+Param_Q is 0.3
+
+    Param_P is 0.0
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.824511
+    AUCTime：8.840427 s
+*********
+
+Param_Q is 0.3
+
+    Param_P is 0.1
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.826805
+    AUCTime：7.493467 s
+*********
+
+Param_Q is 0.3
+
+    Param_P is 0.2
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.829905
+    AUCTime：7.906641 s
+*********
+
+Param_Q is 0.3
+
+    Param_P is 0.3
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.833077
+    AUCTime：7.490408 s
+*********
+
+Param_Q is 0.3
+
+    Param_P is 0.4
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.835632
+    AUCTime：7.499296 s
+*********
+
+Param_Q is 0.3
+
+    Param_P is 0.5
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.838104
+    AUCTime：7.891256 s
+*********
+
+Param_Q is 0.3
+
+    Param_P is 0.6
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.840086
+    AUCTime：7.537145 s
+*********
+
+Param_Q is 0.3
+
+    Param_P is 0.7
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.842155
+    AUCTime：7.534925 s
+*********
+
+Param_Q is 0.3
+
+    Param_P is 0.8
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.844047
+    AUCTime：8.175015 s
+*********
+
+Param_Q is 0.3
+
+    Param_P is 0.9
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.845143
+    AUCTime：7.747173 s
+*********
+
+Param_Q is 0.3
+
+    Param_P is 1.0
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.846823
+    AUCTime：7.732065 s
+ 
+W1:
+MatrixNet_W1's is Shape :(4066L, 4066L)
+ 
+W2:
+MatrixNet_W2's is Shape :(4066L, 4066L)
+*********
+
+Param_Q is 0.4
+
+    Param_P is 0.0
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.828621
+    AUCTime：7.682376 s
+*********
+
+Param_Q is 0.4
+
+    Param_P is 0.1
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.832377
+    AUCTime：7.726355 s
+*********
+
+Param_Q is 0.4
+
+    Param_P is 0.2
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.836982
+    AUCTime：7.417885 s
+*********
+
+Param_Q is 0.4
+
+    Param_P is 0.3
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.840113
+    AUCTime：7.374382 s
+*********
+
+Param_Q is 0.4
+
+    Param_P is 0.4
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.843224
+    AUCTime：8.033628 s
+*********
+
+Param_Q is 0.4
+
+    Param_P is 0.5
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.845428
+    AUCTime：7.404225 s
+*********
+
+Param_Q is 0.4
+
+    Param_P is 0.6
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.848468
+    AUCTime：7.531793 s
+*********
+
+Param_Q is 0.4
+
+    Param_P is 0.7
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.850696
+    AUCTime：7.472405 s
+*********
+
+Param_Q is 0.4
+
+    Param_P is 0.8
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.852228
+    AUCTime：7.414280 s
+*********
+
+Param_Q is 0.4
+
+    Param_P is 0.9
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.853468
+    AUCTime：7.440917 s
+*********
+
+Param_Q is 0.4
+
+    Param_P is 1.0
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.854649
+    AUCTime：7.464964 s
+ 
+W1:
+MatrixNet_W1's is Shape :(4066L, 4066L)
+ 
+W2:
+MatrixNet_W2's is Shape :(4066L, 4066L)
+*********
+
+Param_Q is 0.5
+
+    Param_P is 0.0
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.828938
+    AUCTime：9.163276 s
+*********
+
+Param_Q is 0.5
+
+    Param_P is 0.1
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.835882
+    AUCTime：10.110897 s
+*********
+
+Param_Q is 0.5
+
+    Param_P is 0.2
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.840021
+    AUCTime：9.331942 s
+*********
+
+Param_Q is 0.5
+
+    Param_P is 0.3
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.844662
+    AUCTime：8.508068 s
+*********
+
+Param_Q is 0.5
+
+    Param_P is 0.4
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.848565
+    AUCTime：8.008924 s
+*********
+
+Param_Q is 0.5
+
+    Param_P is 0.5
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.851441
+    AUCTime：8.324647 s
+*********
+
+Param_Q is 0.5
+
+    Param_P is 0.6
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.853601
+    AUCTime：7.898166 s
+*********
+
+Param_Q is 0.5
+
+    Param_P is 0.7
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.855468
+    AUCTime：7.800619 s
+*********
+
+Param_Q is 0.5
+
+    Param_P is 0.8
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.857597
+    AUCTime：8.092131 s
+*********
+
+Param_Q is 0.5
+
+    Param_P is 0.9
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.859117
+    AUCTime：7.684026 s
+*********
+
+Param_Q is 0.5
+
+    Param_P is 1.0
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.859755
+    AUCTime：8.780830 s
+ 
+W1:
+MatrixNet_W1's is Shape :(4066L, 4066L)
+ 
+W2:
+MatrixNet_W2's is Shape :(4066L, 4066L)
+*********
+
+Param_Q is 0.6
+
+    Param_P is 0.0
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.829723
+    AUCTime：12.610636 s
+*********
+
+Param_Q is 0.6
+
+    Param_P is 0.1
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.836728
+    AUCTime：11.224283 s
+*********
+
+Param_Q is 0.6
+
+    Param_P is 0.2
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.842577
+    AUCTime：11.453176 s
+*********
+
+Param_Q is 0.6
+
+    Param_P is 0.3
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.847162
+    AUCTime：12.148579 s
+*********
+
+Param_Q is 0.6
+
+    Param_P is 0.4
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.850635
+    AUCTime：11.588405 s
+*********
+
+Param_Q is 0.6
+
+    Param_P is 0.5
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.854294
+    AUCTime：13.429388 s
+*********
+
+Param_Q is 0.6
+
+    Param_P is 0.6
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.855686
+    AUCTime：12.363355 s
+*********
+
+Param_Q is 0.6
+
+    Param_P is 0.7
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.859502
+    AUCTime：12.872301 s
+*********
+
+Param_Q is 0.6
+
+    Param_P is 0.8
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.861374
+    AUCTime：11.749760 s
+*********
+
+Param_Q is 0.6
+
+    Param_P is 0.9
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.861681
+    AUCTime：12.616559 s
+*********
+
+Param_Q is 0.6
+
+    Param_P is 1.0
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.862299
+    AUCTime：12.369086 s
+ 
+W1:
+MatrixNet_W1's is Shape :(4066L, 4066L)
+ 
+W2:
+MatrixNet_W2's is Shape :(4066L, 4066L)
+*********
+
+Param_Q is 0.7
+
+    Param_P is 0.0
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.829123
+    AUCTime：12.937186 s
+*********
+
+Param_Q is 0.7
+
+    Param_P is 0.1
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.836982
+    AUCTime：12.881282 s
+*********
+
+Param_Q is 0.7
+
+    Param_P is 0.2
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.843761
+    AUCTime：13.777663 s
+*********
+
+Param_Q is 0.7
+
+    Param_P is 0.3
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.848818
+    AUCTime：11.197127 s
+*********
+
+Param_Q is 0.7
+
+    Param_P is 0.4
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.852510
+    AUCTime：11.522636 s
+*********
+
+Param_Q is 0.7
+
+    Param_P is 0.5
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.856126
+    AUCTime：11.319221 s
+*********
+
+Param_Q is 0.7
+
+    Param_P is 0.6
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.858488
+    AUCTime：11.371277 s
+*********
+
+Param_Q is 0.7
+
+    Param_P is 0.7
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.860162
+    AUCTime：11.189174 s
+*********
+
+Param_Q is 0.7
+
+    Param_P is 0.8
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.862366
+    AUCTime：11.716717 s
+*********
+
+Param_Q is 0.7
+
+    Param_P is 0.9
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.863230
+    AUCTime：11.970244 s
+*********
+
+Param_Q is 0.7
+
+    Param_P is 1.0
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.862913
+    AUCTime：11.920255 s
+ 
+W1:
+MatrixNet_W1's is Shape :(4066L, 4066L)
+ 
+W2:
+MatrixNet_W2's is Shape :(4066L, 4066L)
+*********
+
+Param_Q is 0.8
+
+    Param_P is 0.0
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.826301
+    AUCTime：11.417384 s
+*********
+
+Param_Q is 0.8
+
+    Param_P is 0.1
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.836032
+    AUCTime：11.825976 s
+*********
+
+Param_Q is 0.8
+
+    Param_P is 0.2
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.842522
+    AUCTime：12.265088 s
+*********
+
+Param_Q is 0.8
+
+    Param_P is 0.3
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.848754
+    AUCTime：13.417179 s
+*********
+
+Param_Q is 0.8
+
+    Param_P is 0.4
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.852501
+    AUCTime：11.898491 s
+*********
+
+Param_Q is 0.8
+
+    Param_P is 0.5
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.855857
+    AUCTime：14.020498 s
+*********
+
+Param_Q is 0.8
+
+    Param_P is 0.6
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.858928
+    AUCTime：12.123465 s
+*********
+
+Param_Q is 0.8
+
+    Param_P is 0.7
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.860860
+    AUCTime：11.244059 s
+*********
+
+Param_Q is 0.8
+
+    Param_P is 0.8
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.863013
+    AUCTime：11.690145 s
+*********
+
+Param_Q is 0.8
+
+    Param_P is 0.9
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.862988
+    AUCTime：10.966977 s
+*********
+
+Param_Q is 0.8
+
+    Param_P is 1.0
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.862507
+    AUCTime：11.419959 s
+ 
+W1:
+MatrixNet_W1's is Shape :(4066L, 4066L)
+ 
+W2:
+MatrixNet_W2's is Shape :(4066L, 4066L)
+*********
+
+Param_Q is 0.9
+
+    Param_P is 0.0
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.824295
+    AUCTime：13.634753 s
+*********
+
+Param_Q is 0.9
+
+    Param_P is 0.1
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.834337
+    AUCTime：12.375590 s
+*********
+
+Param_Q is 0.9
+
+    Param_P is 0.2
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.842094
+    AUCTime：11.660482 s
+*********
+
+Param_Q is 0.9
+
+    Param_P is 0.3
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.847076
+    AUCTime：11.758532 s
+*********
+
+Param_Q is 0.9
+
+    Param_P is 0.4
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.851905
+    AUCTime：11.280527 s
+*********
+
+Param_Q is 0.9
+
+    Param_P is 0.5
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.855510
+    AUCTime：11.909733 s
+*********
+
+Param_Q is 0.9
+
+    Param_P is 0.6
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.857897
+    AUCTime：11.869143 s
+*********
+
+Param_Q is 0.9
+
+    Param_P is 0.7
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.860187
+    AUCTime：11.978947 s
+*********
+
+Param_Q is 0.9
+
+    Param_P is 0.8
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.860828
+    AUCTime：11.207009 s
+*********
+
+Param_Q is 0.9
+
+    Param_P is 0.9
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.861988
+    AUCTime：11.380778 s
+*********
+
+Param_Q is 0.9
+
+    Param_P is 1.0
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.861080
+    AUCTime：12.475632 s
+ 
+W1:
+MatrixNet_W1's is Shape :(4066L, 4066L)
+ 
+W2:
+MatrixNet_W2's is Shape :(4066L, 4066L)
+*********
+
+Param_Q is 1.0
+
+    Param_P is 0.0
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.819322
+    AUCTime：13.406670 s
+*********
+
+Param_Q is 1.0
+
+    Param_P is 0.1
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.831501
+    AUCTime：12.031928 s
+*********
+
+Param_Q is 1.0
+
+    Param_P is 0.2
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.840159
+    AUCTime：12.492804 s
+*********
+
+Param_Q is 1.0
+
+    Param_P is 0.3
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.845959
+    AUCTime：12.233993 s
+*********
+
+Param_Q is 1.0
+
+    Param_P is 0.4
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.850399
+    AUCTime：12.493987 s
+*********
+
+Param_Q is 1.0
+
+    Param_P is 0.5
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.853635
+    AUCTime：11.249480 s
+*********
+
+Param_Q is 1.0
+
+    Param_P is 0.6
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.856544
+    AUCTime：11.274649 s
+*********
+
+Param_Q is 1.0
+
+    Param_P is 0.7
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.857800
+    AUCTime：12.565336 s
+*********
+
+Param_Q is 1.0
+
+    Param_P is 0.8
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.859277
+    AUCTime：11.289380 s
+*********
+
+Param_Q is 1.0
+
+    Param_P is 0.9
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.859579
+    AUCTime：11.792204 s
+*********
+
+Param_Q is 1.0
+
+    Param_P is 1.0
+
+Sim:
+Matrix's Shape is :(4066L, 4066L)
+    Calculation AUC......
+    AUC指标为：0.859146
+    AUCTime：8.516458 s
